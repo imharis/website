@@ -1,6 +1,6 @@
 {
-    "name": "waygouuu/website",
-    "description": "waygouuu Website",
+    "name": "waygouu/website",
+    "description": "waygouu Website",
     "type": "library",
     "require": {
         "illuminate/support": "5.8.x-dev",
