@@ -1,0 +1,23 @@
+{
+    "name": "waygou/website",
+    "description": "Waygou Website",
+    "type": "library",
+    "require": {
+        "illuminate/support": "5.8.x-dev",
+        "php": "^7.1",
+        "phpunit/phpunit": "7.5.x-dev"
+    },
+    "autoload":{
+        "psr-4":{
+            "Waygou\\Website\\":"src"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "imharis",
+            "email": "haris.codingpixcel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
