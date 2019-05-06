@@ -1,6 +1,6 @@
 {
-    "name": "waygou/website",
-    "description": "Waygou Website",
+    "name": "waygouuu/website",
+    "description": "waygouuu Website",
     "type": "library",
     "require": {
         "illuminate/support": "5.8.x-dev",
@@ -9,7 +9,7 @@
     },
     "autoload":{
         "psr-4":{
-            "Waygou\\Website\\":"src"
+            "waygouu\\Website\\":"src"
         }
     },
     "license": "MIT",

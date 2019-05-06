@@ -1,6 +1,6 @@
 <?php
 
-namespace Waygou\Website\Providers;
+namespace waygouu\Website\Providers;
 
 use illuminate\Support\ServiceProvider;
 
